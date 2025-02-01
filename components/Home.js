@@ -78,8 +78,8 @@ const Home_2 = () => {
        
 
           <p className="uppercase tracking-widest text-xs text-center text-blue-100 max-w-[500px] text opacity-0 translate-y-5">
-            Ensemble, nous transformons les défis d&apos;aujourd&apos;hui en solutions
-            innovantes pour un avenir meilleur.{" "}
+          Together, we transform today's challenges into solutions
+          innovative for a better future.{" "}
           </p>
 
           <div className=" flex gap-8">
